@@ -1,0 +1,183 @@
+body
+{
+	background-color: white;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.navigation
+{
+	background-color: whitesmoke;
+	padding: 15px;
+	box-shadow: 0 0 3px; color: whitesmoke;
+}
+
+
+.navigation li 
+{
+	display: inline;
+	padding-left: 30px;
+}
+
+.navigation li a 
+{
+	color: black;
+	font-family: sans-serif;
+	text-decoration: none;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+div
+{
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.navigation li a:hover
+{
+	color: royalblue;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.navigation li img
+{
+	width: 200px;
+	float: left;
+	margin-top: -20px;
+}
+.c1
+{
+	font-size: 17px;
+	text-align: justify;
+	text-justify: inter-word;
+	padding-top: 100px;
+	display: flex;
+	gap: 100px;
+	align-items: center;
+	align-content: center;
+	align-self: center;
+	padding-left: 15%;
+}
+.c1 .cc1 b
+{
+	font-family: sega;
+	font-size: 55px;
+	padding-bottom: 10px;
+	color: #ffffff;
+}
+.cc1
+{
+	line-height: 30px;
+}
+.c1 img
+{
+	cursor: pointer;
+	object-fit: cover;
+}
+.c1 .cc1 b
+{
+	color: black;
+}
+
+
+.a1
+{
+	font-size: 17px;
+	text-align: justify;
+	text-justify: inter-word;
+	padding-top: 100px;
+	display: flex;
+	gap: 100px;
+	align-items: center;
+	align-content: center;
+	align-self: center;
+	padding-left: 15%;
+}
+.a1 .aa1 b
+{
+	font-family: congenial;
+	font-size: 50px;
+	padding-bottom: 10px;
+	color: #ffffff;
+}
+.a1
+{
+	line-height: 30px;
+}
+.a1 img
+{
+	cursor: pointer;
+	object-fit: cover;
+}
+.a1 .aa1 b
+{
+	color: black;
+}
+
+
+
+.b1
+{
+	font-size: 17px;
+	text-align: justify;
+	text-justify: inter-word;
+	padding-top: 50px;
+	display: center;
+	gap: 100px;
+	align-items: center;
+	align-content: center;
+	align-self: center;
+	padding-bottom: 20%;
+}
+.b1 .bb1 b
+{
+	font-family: Times New Roman;
+	font-size: 50px;
+	padding-bottom: 30px;
+	float: right;
+	color: #ffffff;
+}
+.b1
+{
+	line-height: 30px;
+	color: black;
+}
+.b1 img
+{
+	padding-left: 100px;
+	padding-bottom: 30px;
+	cursor: pointer;
+	object-fit: cover;
+	color: black;
+}
+.b1 .bb1 b
+{
+	color: black;
+	
+}
+
+.h1 a
+{
+padding-left: 30px;
+
+}
+
+.h1 h2
+{
+	position: relative;
+}
+
+.h1 img
+{
+	image-orientation: center;
+}
+
+.t1 .tt1 
+{
+	text-decoration: none;
+	text-justify: inter-character;
+}
